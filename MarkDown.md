@@ -2,8 +2,8 @@
 
 Markdonw is used for Readme.md file  
 Open "Your_Readme.md" file with VSCode  
-Use "Slit Editor"![Slit Editor](./pic-markdown/Split.png) for text style and Preview panels  
-Select "Open as Preview"![Open as Preview](./pic-markdown/Preview.png) on the right side panel.
+Use "Slit Editor"![Slit Editor](./pic/markdown/Split.png) for text style and Preview panels  
+Select "Open as Preview"![Open as Preview](./pic/markdown/Preview.png) on the right side panel.
 
 ## Title
 
@@ -69,7 +69,13 @@ Use "\<"
 Add <u>underline</u> text.
 
 ## comment
---comment start--
+--comment start--<br>
+/</!-- hello --><br>
+/[//]: #hello<br>
+/[//]: # (hello)<br>
+/[//]: # "hello"<br>
+/[//]: # 'hello'<br>
+--comment hidden (remove / character)--
 <!-- hello -->
 [//]: #hello
 [//]: # (hello)

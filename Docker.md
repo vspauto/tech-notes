@@ -44,7 +44,7 @@ ex: docker run -d -p 8080:80 --name my-nginx nginx:1.31
 >*  -w: assign WORKDIR
 
 Open Broser and type "localhost:8080"
-![Welcome Nginx](./pic-docker/WelcomeNginx.png)
+![Welcome Nginx](./pic/docker/WelcomeNginx.png)
 
 **Docker status**
 ```bash
@@ -188,7 +188,7 @@ docker ps
 docker logs my-node-app
 ```
 Open Broser and type "localhost:3000"<br>
-![Welcome to my awesome app](./pic-docker/my-node-app.png)
+![Welcome to my awesome app](./pic/docker/my-node-app.png)
 
 
 ## Docker Compose
