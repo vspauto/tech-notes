@@ -4,7 +4,7 @@ A curated collection of technical documentation, architectural notes, code snipp
 
 ---
 
-## 📌 Topics Covered
+## Topics Covered
 
 ### 1. Linux Kernel & Device Drivers
 - **V4L2 Framework & Camera Pipelines**: V4L2 sub-devices, media controller architecture, CSI-2 receiver drivers, and buffer queue (`videobuf2`) flows.
